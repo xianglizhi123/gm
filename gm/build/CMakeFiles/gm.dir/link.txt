@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp    CMakeFiles/gm.dir/src/common.cpp.o CMakeFiles/gm.dir/main.cu.o  -o gm   -L/usr/local/cuda-11.2/targets/x86_64-linux/lib/stubs  -L/usr/local/cuda-11.2/targets/x86_64-linux/lib  -lnvidia-ml -lcudadevrt -lcudart_static -lrt -lpthread -ldl 
